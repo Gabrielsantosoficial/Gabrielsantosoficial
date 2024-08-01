@@ -1,4 +1,5 @@
-<img width=100% bottom=50px src:"https://github.com/Gabrielsantosoficial/assets/74216d08-c7e4-48db-b028-8cc3c10c85bf" />
+![github-header-image](https://github.com/user-attachments/assets/74216d08-c7e4-48db-b028-8cc3c10c85bf)
+
 
 ## Olá me chamo Gabriel, sou desenvolvedor Front End e criador de conteúdo de programação e tecnologia!
 
