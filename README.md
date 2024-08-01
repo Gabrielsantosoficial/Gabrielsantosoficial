@@ -1,4 +1,4 @@
-## Olá me chamo Gabriel Santos, sou desenvolvedor Front End e criador de conteúdo de programação e tecnologia!
+## Olá me chamo Gabriel, sou desenvolvedor Front End e criador de conteúdo de programação e tecnologia!
 
 ### Tecnologias que uso hoje em dia
 
@@ -26,3 +26,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielsantosoficial/Gabrielsantosoficial/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabrielsantosoficial/Gabrielsantosoficial/output/github-contribution-grid-snake.svg">
 </picture>
+
+### Ultimos Videos
+
+- 
