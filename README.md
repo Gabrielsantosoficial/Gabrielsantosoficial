@@ -1,3 +1,5 @@
+![github-header-image] (https://github.com/Gabrielsantosoficial/Gabrielsantosoficial/blob/main/github-header-image.png)
+
 ## Olá me chamo Gabriel, sou desenvolvedor Front End e criador de conteúdo de programação e tecnologia!
 
 ### Tecnologias que uso hoje em dia
