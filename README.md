@@ -7,7 +7,9 @@
 </div>
 <br>
 <br>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabrielsantosoficial&bg_color=0a0c10&color=ffffff&line=48109e&point=48109e&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br>
 ## Minhas Habilidades 
 
