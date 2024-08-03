@@ -1,9 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=B05DF7&vCenter=true&width=435&lines=Bem+vindo!+%F0%9F%92%AB;Me+chamo+Gabriel;Tenho+21+anos;Sou+desenvolvedor+Web;E+criador+de+conte%C3%BAdo+de+programa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
 
 <div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabrielsantosoficial&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsantosoficial&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabrielsantosoficial&show_icons=true&count_private=true&hide_border=true&title_color=8432d2&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsantosoficial&layout=compact&hide_border=true&title_color=00bfbf&text_color=8432d2&bg_color=0d1117" />
 </div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabrielsantosoficial&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ### Minhas Habilidades 
