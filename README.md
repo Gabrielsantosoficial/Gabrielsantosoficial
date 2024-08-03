@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=B05DF7&vCenter=true&width=435&lines=Bem+vindo!+%F0%9F%92%AB;Me+chamo+Gabriel;Tenho+21+anos;Sou+desenvolvedor+Web;E+criador+de+conte%C3%BAdo+de+programa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
 
-### Tecnologias que uso hoje em dia
+### Minhas Habilidades 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
